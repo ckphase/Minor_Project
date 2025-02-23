@@ -80,7 +80,6 @@ main{
 .hero-content{
     position: absolute;
     inset: 0;
-    background: linear-gradient(90deg, rgba(111, 222, 255, 0.7) 0%, transparent 100%);
     display: flex;
     align-items: center;
     padding: 2rem;
